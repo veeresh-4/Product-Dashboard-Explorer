@@ -46,20 +46,22 @@ LocalStorage for favorites
 
 Git & GitHub for version control
 
-**Setup Instructions**
+//Setup Instructions**
 
 Follow these steps to run the project locally:
-Clone the Repository
+//Clone the Repository
+
 git clone https://github.com/veeresh-4/Product-Dashboard-Explorer.git
 cd Product-Dashboard-Explorer
-Install Dependencies
+
+//Install Dependencies
 npm install
 
-****Run the Development Server*****
+//Run the Development Server
 npm run dev
 
 
-***Open your browser and visit:***
+//Open your browser and visit:
 
 http://localhost:3000
 
